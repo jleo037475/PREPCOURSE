@@ -1,2 +1,2 @@
-# PREPCOURSE
-Repositorio de prueba
+Prueba de repositorios en GIT HUB
+Juan Leonardo
